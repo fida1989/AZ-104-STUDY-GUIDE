@@ -1,1 +1,1 @@
-Open index.html in any browser. AZ-104 Comprehensive Study Guide Web App.
+Open index.html in a browser. This is a static AZ-104 detailed study guide web app with expanded domains, sidebar navigation, flashcards, labs, and 100 questions.
